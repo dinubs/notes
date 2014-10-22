@@ -58,5 +58,8 @@ Acids: HCl -> H<sup>+</sup> + Cl<sup>-</sup>
 * Base: any compound that can act as an H<sup>+</sup> acceptor.
 	1. Acid - Base reaction
 	2. Precipitation reaction
-	3. Oxidation - Reduction Reaction 
+	3. O
+	oxidation - Reduction Reaction 
+	
+	
 
